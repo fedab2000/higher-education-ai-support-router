@@ -1,0 +1,6 @@
+admissions
+course_registration
+financial_aid
+academic_advising
+graduation
+technical_support
