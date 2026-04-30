@@ -1,65 +1,65 @@
 ticket_text,category
-I want to know the application deadline for fall admissions,admissions
-Can I change my program after applying?,admissions
-When will I receive my admission decision?,admissions
-How do I upload my transcripts?,admissions
-Is there a fee waiver for application?,admissions
-Can I defer my admission to next year?,admissions
-What are the requirements for international students?,admissions
-I submitted my application but did not get confirmation,admissions
-How do I update my application information?,admissions
-Do you offer conditional admission?,admissions
-I cannot enroll in my courses for next term,course_registration
-The system shows an error when I try to add a course,course_registration
-How do I drop a course after the deadline?,course_registration
-I am waitlisted, what should I do?,course_registration
-Can I register for courses outside my program?,course_registration
-My timetable has conflicts,course_registration
-Why is the course showing as full?,course_registration
-I need permission to enroll in a restricted course,course_registration
-How do I swap courses?,course_registration
-I missed the registration window,course_registration
-My tuition payment is not reflected in my account,financial_aid
-I was charged the wrong tuition amount,financial_aid
-How do I apply for financial aid?,financial_aid
-When will my scholarship be applied?,financial_aid
-My OSAP funding has not been received,financial_aid
-Can I get a refund for dropped courses?,financial_aid
-I need help understanding my tuition invoice,financial_aid
-Why do I have late fees?,financial_aid
-How do I set up a payment plan?,financial_aid
-I have an issue with my bursary,financial_aid
-I need help choosing my electives,academic_advising
-Can an advisor review my course plan?,academic_advising
-I am unsure about my program requirements,academic_advising
-How do I switch my major?,academic_advising
-I want to plan my final year courses,academic_advising
-Can I take courses from another department?,academic_advising
-What are the prerequisites for this course?,academic_advising
-I need advice on improving my GPA,academic_advising
-How do I balance workload for next term?,academic_advising
-I want to discuss my academic progress,academic_advising
-Am I eligible to graduate this term?,graduation
-How do I apply for graduation?,graduation
-Where do I submit my graduation application?,graduation
-I have not received my diploma yet,graduation
-What are the graduation requirements?,graduation
-Can I graduate with distinction?,graduation
-How do I check my graduation status?,graduation
-I missed the graduation application deadline,graduation
-When is the convocation ceremony?,graduation
-Can I attend convocation later?,graduation
-I cannot log into my student portal,technical_support
-My password reset link is not working,technical_support
-The learning system is not loading,technical_support
-I am getting an error on the website,technical_support
-My account is locked,technical_support
-Two-factor authentication is not working,technical_support
-The portal is showing a blank screen,technical_support
-I cannot access my email account,technical_support
-The system is very slow today,technical_support
-I cannot upload documents to the portal,technical_support
-The website crashes when I try to submit a form,technical_support
-My login keeps failing even with correct credentials,technical_support
-I cannot open my course materials online,technical_support
-The mobile app is not syncing properly,technical_support
+"I want to know the application deadline for fall admissions",admissions
+"Can I change my program after applying?",admissions
+"When will I receive my admission decision?",admissions
+"How do I upload my transcripts?",admissions
+"Is there a fee waiver for application?",admissions
+"Can I defer my admission to next year?",admissions
+"What are the requirements for international students?",admissions
+"I submitted my application but did not get confirmation",admissions
+"How do I update my application information?",admissions
+"Do you offer conditional admission?",admissions
+"I cannot enroll in my courses for next term",course_registration
+"The system shows an error when I try to add a course",course_registration
+"How do I drop a course after the deadline?",course_registration
+"I am waitlisted, what should I do?",course_registration
+"Can I register for courses outside my program?",course_registration
+"My timetable has conflicts",course_registration
+"Why is the course showing as full?",course_registration
+"I need permission to enroll in a restricted course",course_registration
+"How do I swap courses?",course_registration
+"I missed the registration window",course_registration
+"My tuition payment is not reflected in my account",financial_aid
+"I was charged the wrong tuition amount",financial_aid
+"How do I apply for financial aid?",financial_aid
+"When will my scholarship be applied?",financial_aid
+"My OSAP funding has not been received",financial_aid
+"Can I get a refund for dropped courses?",financial_aid
+"I need help understanding my tuition invoice",financial_aid
+"Why do I have late fees?",financial_aid
+"How do I set up a payment plan?",financial_aid
+"I have an issue with my bursary",financial_aid
+"I need help choosing my electives",academic_advising
+"Can an advisor review my course plan?",academic_advising
+"I am unsure about my program requirements",academic_advising
+"How do I switch my major?",academic_advising
+"I want to plan my final year courses",academic_advising
+"Can I take courses from another department?",academic_advising
+"What are the prerequisites for this course?",academic_advising
+"I need advice on improving my GPA",academic_advising
+"How do I balance workload for next term?",academic_advising
+"I want to discuss my academic progress",academic_advising
+"Am I eligible to graduate this term?",graduation
+"How do I apply for graduation?",graduation
+"Where do I submit my graduation application?",graduation
+"I have not received my diploma yet",graduation
+"What are the graduation requirements?",graduation
+"Can I graduate with distinction?",graduation
+"How do I check my graduation status?",graduation
+"I missed the graduation application deadline",graduation
+"When is the convocation ceremony?",graduation
+"Can I attend convocation later?",graduation
+"I cannot log into my student portal",technical_support
+"My password reset link is not working",technical_support
+"The learning system is not loading",technical_support
+"I am getting an error on the website",technical_support
+"My account is locked",technical_support
+"Two-factor authentication is not working",technical_support
+"The portal is showing a blank screen",technical_support
+"I cannot access my email account",technical_support
+"The system is very slow today",technical_support
+"I cannot upload documents to the portal",technical_support
+"The website crashes when I try to submit a form",technical_support
+"My login keeps failing even with correct credentials",technical_support
+"I cannot open my course materials online",technical_support
+"The mobile app is not syncing properly",technical_support
