@@ -63,3 +63,63 @@ ticket_text,category
 "My login keeps failing even with correct credentials",technical_support
 "I cannot open my course materials online",technical_support
 "The mobile app is not syncing properly",technical_support
+"I want to apply for undergraduate admission",admissions
+"What documents are required for admission?",admissions
+"How do I check my application status?",admissions
+"I need help with my admission application",admissions
+"Can I apply after the deadline?",admissions
+"What is the admission process?",admissions
+"How long does admission take?",admissions
+"I uploaded wrong documents for admission",admissions
+"Can I edit my application after submission?",admissions
+"I did not receive admission confirmation",admissions
+"I cannot add courses to my schedule",course_registration
+"I am unable to enroll in classes",course_registration
+"My course registration is not working",course_registration
+"I can't sign up for my classes",course_registration
+"Enrollment system is not allowing course selection",course_registration
+"I want to register for a class but it's blocked",course_registration
+"Why can't I add this course?",course_registration
+"My enrollment request failed",course_registration
+"I need help registering courses",course_registration
+"I am stuck during course registration",course_registration
+"I have questions about my tuition fees",financial_aid
+"My payment did not go through",financial_aid
+"I need financial assistance",financial_aid
+"How do I get a scholarship?",financial_aid
+"My tuition bill looks incorrect",financial_aid
+"I was charged extra fees",financial_aid
+"I need help with funding options",financial_aid
+"How do I pay my tuition?",financial_aid
+"My financial aid is delayed",financial_aid
+"I need help understanding my charges",financial_aid
+"I need help planning my courses",academic_advising
+"Can someone advise me on my degree plan?",academic_advising
+"I want guidance on course selection",academic_advising
+"I need academic support",academic_advising
+"I want to discuss my academic progress",academic_advising
+"Can I get help with my study plan?",academic_advising
+"I need help choosing electives",academic_advising
+"I am confused about my program requirements",academic_advising
+"Can I talk to an academic advisor?",academic_advising
+"I need help managing my studies",academic_advising
+"I want to graduate this term",graduation
+"How do I complete my graduation application?",graduation
+"I need help with my graduation process",graduation
+"When will I receive my degree?",graduation
+"I am missing graduation requirements",graduation
+"How do I check if I can graduate?",graduation
+"I need help submitting graduation forms",graduation
+"I want to confirm my graduation status",graduation
+"Can I still apply for graduation?",graduation
+"I need information about convocation",graduation
+"My account is not working",technical_support
+"I cannot access the system",technical_support
+"My login credentials are not working",technical_support
+"I forgot my password",technical_support
+"The website is not loading",technical_support
+"I am getting a system error",technical_support
+"My dashboard is not working",technical_support
+"I can't access my account",technical_support
+"The portal is down",technical_support
+"I am having issues with the app",technical_support
