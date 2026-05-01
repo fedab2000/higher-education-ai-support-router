@@ -1,4 +1,14 @@
 # Higher Education AI Support Ticket Router
 
-This project uses Natural Language Processing and machine learning to classify student support requests into categories such as admissions, course registration, financial aid, academic advising, graduation, and technical support.
-The goal is to support faster student-service routing in a higher education environment.
+## Model Comparison
+
+We evaluated multiple machine learning models:
+
+| Model | Accuracy |
+|------|--------|
+| Logistic Regression | 56.25% |
+| Linear SVM | 56.25% |
+| Naive Bayes | 50.00% |
+| Random Forest | 43.75% |
+
+Logistic Regression was selected due to strong performance and probability outputs for confidence-based routing.
