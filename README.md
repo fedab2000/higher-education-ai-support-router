@@ -44,8 +44,11 @@ Although **Linear SVM** achieved the highest accuracy, **Logistic Regression** w
      - ≥ 70% → Auto-route
      - 40–70% → Review queue
      - < 40% → Escalate
+## ▶️ How to Run
 
----
+### 1. Install dependencies
 
-## 📁 Project Structure
-
+```bash
+pip install -r requirements.txt
+python src/train_model.py
+python -m streamlit run app/streamlit_app.py
